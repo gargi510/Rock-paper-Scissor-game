@@ -37,3 +37,10 @@ Play Again or Exit: You can re-run the game to play again or exit after each rou
 
 Conclusion
 Enjoy this simple and fun Rock-Paper-Scissors game! Whether you’re passing time or challenging your friends, this game will surely bring back the nostalgia of the classic showdown. Feel free to fork and modify the code to add additional features or improve it.
+
+
+**👩‍💻 Author**
+
+Built by [Gargi Mishra] – [www.linkedin.com/gargi_510]
+________________________________________
+
