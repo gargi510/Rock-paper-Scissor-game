@@ -1,23 +1,81 @@
-# Rock-Paper-Scissors Game
+Rock-Paper-Scissors Game
 
-## Project Description
+Project Description
 
-Welcome to my **Rock-Paper-Scissors Game**! 🎮 This is a fun Python-based implementation of the classic **Rock-Paper-Scissors** game, where you play against the computer. The rules are simple:
-- **Rock** beats **Scissors**
-- **Scissors** beats **Paper**
-- **Paper** beats **Rock**
+Welcome to my Rock-Paper-Scissors Game! 🎮 This is a fun Python-based implementation of the classic Rock-Paper-Scissors game, where you play against the computer. The rules are simple:
+
+Rock beats Scissors
+
+Scissors beats Paper
+
+Paper beats Rock
 
 The game allows you to choose between Rock, Paper, or Scissors, and then the computer makes its choice randomly. After each round, the winner is determined and displayed, along with the corresponding ASCII art for each option.
 
-## Features
-- Choose from **Rock**, **Paper**, or **Scissors**.
-- The computer randomly selects one of the three options.
-- Displays ASCII art for both your and the computer's choice.
-- Keeps track of the game outcome for each round (win, loss, or draw).
-- Handles invalid input with error messages.
+Features
 
-## How to Play
+Choose from Rock, Paper, or Scissors.
 
-1. **Start the Game**: Run the script to start the game.
-   ```bash
-   python rock_paper_scissors.py
+The computer randomly selects one of the three options.
+
+Displays ASCII art for both your and the computer's choice.
+
+Keeps track of the game outcome for each round (win, loss, or draw).
+
+Handles invalid input with error messages.
+
+How to Play
+
+Start the Game: Run the script to start the game.
+
+bash
+Copy
+Edit
+python rock_paper_scissors.py
+Choose Your Move: You'll be prompted to enter your choice:
+
+0 for Rock
+
+1 for Paper
+
+2 for Scissors
+
+Computer's Move: After you make your selection, the computer will randomly choose one of the three options.
+
+Round Outcome: The game will tell you whether you won, lost, or tied based on the rules of the game.
+
+Play Again: You can re-run the game to play again.
+
+Example Gameplay
+
+pgsql
+Copy
+Edit
+Choose 0 for rock, 1 for paper, 2 for scissors
+Your move: 0
+
+You Choose
+
+    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+
+Computer Choose
+
+    _______
+---'   ____)____
+          ______)
+          _______)
+         _______)
+---.__________)
+
+You win!
+Conclusion
+
+Enjoy this simple Rock-Paper-Scissors game! It's a great way to pass the time or challenge your friends. Have fun and feel free to modify the code to add more features!
+
+Developed by Gargi Mishra – Hope you enjoy the game! 🎉
+
