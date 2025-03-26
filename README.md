@@ -41,6 +41,6 @@ Enjoy this simple and fun Rock-Paper-Scissors game! Whether you’re passing tim
 
 **👩‍💻 Author**
 
-Built by [Gargi Mishra] – [www.linkedin.com/in/gargi510]
+Built by Gargi Mishra – www.linkedin.com/in/gargi510
 ________________________________________
 
