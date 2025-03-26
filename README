@@ -1,0 +1,23 @@
+# Rock-Paper-Scissors Game
+
+## Project Description
+
+Welcome to my **Rock-Paper-Scissors Game**! 🎮 This is a simple Python-based implementation of the classic **Rock-Paper-Scissors** game where you play against the computer. The game follows these traditional rules:
+- **Rock** beats **Scissors**
+- **Scissors** beats **Paper**
+- **Paper** beats **Rock**
+
+The game prompts you to choose one of the three options, and then the computer randomly selects its choice. Afterward, the outcome is displayed, along with ASCII art for each option.
+
+## Features
+- Choose from **Rock**, **Paper**, or **Scissors**.
+- The computer randomly selects one of the three options.
+- Displays ASCII art for both your and the computer's choice.
+- Determines the winner of each round and displays the result.
+- Handles invalid inputs gracefully by asking the player to enter valid choices.
+
+## How to Play
+
+1. **Start the Game**: Run the script to start the game.
+   ```bash
+   python rock_paper_scissors.py
