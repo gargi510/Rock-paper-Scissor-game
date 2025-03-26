@@ -35,31 +35,5 @@ Round Outcome: The game will tell you whether you won, lost, or tied based on th
 
 Play Again or Exit: You can re-run the game to play again or exit after each round.
 
-Example Gameplay
-pgsql
-Copy
-Edit
-Choose 0 for rock, 1 for paper, 2 for scissors
-Your move: 0
-
-You Choose
-
-    _______
----'   ____)
-      (_____)
-      (_____)
-      (____)
----.__(___)
-
-Computer Choose
-
-    _______
----'   ____)____
-          ______)
-          _______)
-         _______)
----.__________)
-
-You win!
 Conclusion
 Enjoy this simple and fun Rock-Paper-Scissors game! Whether you’re passing time or challenging your friends, this game will surely bring back the nostalgia of the classic showdown. Feel free to fork and modify the code to add additional features or improve it.
